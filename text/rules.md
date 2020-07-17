@@ -149,7 +149,7 @@ distraction. Each bond has three uses and can be used for each once:
 * Decrease the category of success for a roll where the target of the bond is
   affected in a way that relates to the bond
 
-Once a bond has been used for all three of is uses it is resolved. When a bond
+Once a bond has been used for each of its three uses it is resolved. When a bond
 is resolved the player can choose one:
 
 * Mark XP for resolving a bond

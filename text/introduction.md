@@ -149,7 +149,7 @@ assume this is _Dungeon World_ except that…
   to kick off the game. Once that goal is completed the party writes a new one,
   but they have to agree on it. The goal is what unites this group of people
   beyond their direct bonds to one another.
-* Monsters are represented by a single die indicating their strength in the
+* NPCs are represented by a single die indicating their strength in the
   current situation. Their damage is equal to that die, their HP is equal to
   the number of sides on that die, and their armor is equal to the number of
   sides divided by 4 (round down).
